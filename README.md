@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Based off Ruby on Rails Tutorial (Rails 5) - Learn Web Development with Rails by Michael Hartl
 
-Things you may want to cover:
+You can look at the book [here](https://www.railstutorial.org/book/toy_app)
 
-* Ruby version
+Building a small toy app with Ruby on Rails using scaffolds and postgresql.
 
-* System dependencies
+## About
 
-* Configuration
+You can reach me at: 
+ - [Github](https://github.com/misselliev/)
+ - [Twitter](https://twitter.com/miss_elliev/)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
